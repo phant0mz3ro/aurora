@@ -1,0 +1,9 @@
+/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description/CMakeFiles/uninstall.dir
+/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description/CMakeFiles/amr_description_uninstall.dir
+/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description/CMakeFiles/test.dir
+/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description/CMakeFiles/edit_cache.dir
+/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description/CMakeFiles/rebuild_cache.dir
+/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description/CMakeFiles/list_install_components.dir
+/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description/CMakeFiles/install.dir
+/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description/CMakeFiles/install/local.dir
+/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description/CMakeFiles/install/strip.dir

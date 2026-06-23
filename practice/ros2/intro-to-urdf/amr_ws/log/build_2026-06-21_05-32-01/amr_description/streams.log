@@ -1,0 +1,25 @@
+[0.011s] Invoking command in '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description -- -j12 -l12
+[0.062s] Invoked command in '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description -- -j12 -l12
+[0.078s] Invoking command in '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description
+[0.090s] -- Install configuration: ""
+[0.090s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/launch
+[0.090s] -- Installing: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/launch/sim.launch.py
+[0.091s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/urdf
+[0.091s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/urdf/robot.urdf.xacro
+[0.091s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/urdf/amr.urdf
+[0.092s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/ament_index/resource_index/package_run_dependencies/amr_description
+[0.092s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/ament_index/resource_index/parent_prefix_path/amr_description
+[0.092s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/environment/ament_prefix_path.sh
+[0.092s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/environment/ament_prefix_path.dsv
+[0.092s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/environment/path.sh
+[0.093s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/environment/path.dsv
+[0.093s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/local_setup.bash
+[0.093s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/local_setup.sh
+[0.093s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/local_setup.zsh
+[0.094s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/local_setup.dsv
+[0.094s] -- Installing: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/package.dsv
+[0.095s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/ament_index/resource_index/packages/amr_description
+[0.095s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/cmake/amr_descriptionConfig.cmake
+[0.096s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/cmake/amr_descriptionConfig-version.cmake
+[0.096s] -- Up-to-date: /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/amr_description/share/amr_description/package.xml
+[0.097s] Invoked command in '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/amr_description

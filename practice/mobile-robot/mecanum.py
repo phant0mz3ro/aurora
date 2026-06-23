@@ -16,6 +16,6 @@ s.forward(0.7,speed=0.6)
 s.strafe_right(0.5,speed=0.55)
 s.turn_left(math.pi/4, 1.0)
 
-s.mecanum_drive_wheels(0.4,0.4,-0.0,0.0,duration=3)
+s.mecanum_drive_wheels(1.0,0.0,-0.0,-1.0,duration=3)
 
 amr.play_motion(s,interval_ms = 25,log=True,log_every_n_frames=10)
