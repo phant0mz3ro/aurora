@@ -1,0 +1,41 @@
+[25.683s] Invoking command in '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/src/my_talklist': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_talklist build --build-base /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build install --record /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/install.log --single-version-externally-managed install_data
+[25.989s] running egg_info
+[25.989s] creating ../../build/my_talklist/my_talklist.egg-info
+[26.010s] writing ../../build/my_talklist/my_talklist.egg-info/PKG-INFO
+[26.010s] writing dependency_links to ../../build/my_talklist/my_talklist.egg-info/dependency_links.txt
+[26.010s] writing entry points to ../../build/my_talklist/my_talklist.egg-info/entry_points.txt
+[26.011s] writing requirements to ../../build/my_talklist/my_talklist.egg-info/requires.txt
+[26.011s] writing top-level names to ../../build/my_talklist/my_talklist.egg-info/top_level.txt
+[26.011s] writing manifest file '../../build/my_talklist/my_talklist.egg-info/SOURCES.txt'
+[26.053s] reading manifest file '../../build/my_talklist/my_talklist.egg-info/SOURCES.txt'
+[26.054s] writing manifest file '../../build/my_talklist/my_talklist.egg-info/SOURCES.txt'
+[26.054s] running build
+[26.054s] running build_py
+[26.055s] creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build
+[26.055s] creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib
+[26.055s] creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist
+[26.055s] copying my_talklist/listener.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist
+[26.055s] copying my_talklist/talker.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist
+[26.055s] copying my_talklist/__init__.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist
+[26.055s] running install
+[26.061s] running install_lib
+[26.083s] creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist
+[26.083s] copying /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist/listener.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist
+[26.083s] copying /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist/talker.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist
+[26.083s] copying /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist/__init__.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist
+[26.084s] byte-compiling /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist/listener.py to listener.cpython-312.pyc
+[26.084s] byte-compiling /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist/talker.py to talker.cpython-312.pyc
+[26.085s] byte-compiling /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist/__init__.py to __init__.cpython-312.pyc
+[26.085s] running install_data
+[26.085s] creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/share/ament_index
+[26.085s] creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/share/ament_index/resource_index
+[26.085s] creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/share/ament_index/resource_index/packages
+[26.085s] copying resource/my_talklist -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/share/ament_index/resource_index/packages
+[26.085s] copying package.xml -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/share/my_talklist
+[26.085s] running install_egg_info
+[26.108s] Copying ../../build/my_talklist/my_talklist.egg-info to /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist-0.0.0-py3.12.egg-info
+[26.109s] running install_scripts
+[26.251s] Installing listener script to /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/my_talklist
+[26.252s] Installing talker script to /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/my_talklist
+[26.252s] writing list of installed files to '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/install.log'
+[26.284s] Invoked command in '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/src/my_talklist' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_talklist build --build-base /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build install --record /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/install.log --single-version-externally-managed install_data

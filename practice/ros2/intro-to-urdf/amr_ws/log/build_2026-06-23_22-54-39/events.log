@@ -1,0 +1,178 @@
+[0.000000] (-) TimerEvent: {}
+[0.000239] (-) JobUnselected: {'identifier': 'amr_description'}
+[0.000450] (my_talklist) JobQueued: {'identifier': 'my_talklist', 'dependencies': OrderedDict()}
+[0.000491] (my_talklist) JobStarted: {'identifier': 'my_talklist'}
+[0.099661] (-) TimerEvent: {}
+[0.200087] (-) TimerEvent: {}
+[0.300585] (-) TimerEvent: {}
+[0.401120] (-) TimerEvent: {}
+[0.501708] (-) TimerEvent: {}
+[0.602342] (-) TimerEvent: {}
+[0.702934] (-) TimerEvent: {}
+[0.803512] (-) TimerEvent: {}
+[0.904126] (-) TimerEvent: {}
+[4.459320] (-) TimerEvent: {}
+[4.559859] (-) TimerEvent: {}
+[4.660355] (-) TimerEvent: {}
+[4.760689] (-) TimerEvent: {}
+[4.861056] (-) TimerEvent: {}
+[4.961593] (-) TimerEvent: {}
+[5.062156] (-) TimerEvent: {}
+[5.162727] (-) TimerEvent: {}
+[5.263316] (-) TimerEvent: {}
+[5.363971] (-) TimerEvent: {}
+[5.464689] (-) TimerEvent: {}
+[5.565242] (-) TimerEvent: {}
+[5.665876] (-) TimerEvent: {}
+[5.766516] (-) TimerEvent: {}
+[5.867186] (-) TimerEvent: {}
+[5.967899] (-) TimerEvent: {}
+[6.068518] (-) TimerEvent: {}
+[6.169204] (-) TimerEvent: {}
+[6.269811] (-) TimerEvent: {}
+[6.370442] (-) TimerEvent: {}
+[6.471120] (-) TimerEvent: {}
+[6.571770] (-) TimerEvent: {}
+[6.672426] (-) TimerEvent: {}
+[6.773057] (-) TimerEvent: {}
+[6.873686] (-) TimerEvent: {}
+[6.974347] (-) TimerEvent: {}
+[7.074965] (-) TimerEvent: {}
+[7.175587] (-) TimerEvent: {}
+[7.276321] (-) TimerEvent: {}
+[7.376905] (-) TimerEvent: {}
+[7.477501] (-) TimerEvent: {}
+[7.578118] (-) TimerEvent: {}
+[7.678737] (-) TimerEvent: {}
+[7.779359] (-) TimerEvent: {}
+[7.880082] (-) TimerEvent: {}
+[7.980712] (-) TimerEvent: {}
+[8.081282] (-) TimerEvent: {}
+[8.181902] (-) TimerEvent: {}
+[8.282576] (-) TimerEvent: {}
+[8.383122] (-) TimerEvent: {}
+[8.483727] (-) TimerEvent: {}
+[8.584457] (-) TimerEvent: {}
+[8.684971] (-) TimerEvent: {}
+[8.785693] (-) TimerEvent: {}
+[8.886280] (-) TimerEvent: {}
+[8.987097] (-) TimerEvent: {}
+[9.087654] (-) TimerEvent: {}
+[9.188309] (-) TimerEvent: {}
+[9.288868] (-) TimerEvent: {}
+[9.389509] (-) TimerEvent: {}
+[9.490106] (-) TimerEvent: {}
+[9.590717] (-) TimerEvent: {}
+[12.946796] (-) TimerEvent: {}
+[13.047319] (-) TimerEvent: {}
+[13.147819] (-) TimerEvent: {}
+[13.248162] (-) TimerEvent: {}
+[13.348733] (-) TimerEvent: {}
+[13.449284] (-) TimerEvent: {}
+[13.549853] (-) TimerEvent: {}
+[13.650477] (-) TimerEvent: {}
+[13.751173] (-) TimerEvent: {}
+[13.851856] (-) TimerEvent: {}
+[13.952512] (-) TimerEvent: {}
+[14.053082] (-) TimerEvent: {}
+[14.153603] (-) TimerEvent: {}
+[14.254237] (-) TimerEvent: {}
+[14.354962] (-) TimerEvent: {}
+[14.455561] (-) TimerEvent: {}
+[14.556279] (-) TimerEvent: {}
+[14.656857] (-) TimerEvent: {}
+[14.757496] (-) TimerEvent: {}
+[21.242348] (-) TimerEvent: {}
+[21.343085] (-) TimerEvent: {}
+[21.443928] (-) TimerEvent: {}
+[21.544206] (-) TimerEvent: {}
+[21.644446] (-) TimerEvent: {}
+[21.744688] (-) TimerEvent: {}
+[21.844946] (-) TimerEvent: {}
+[21.945168] (-) TimerEvent: {}
+[22.045527] (-) TimerEvent: {}
+[22.146092] (-) TimerEvent: {}
+[22.246638] (-) TimerEvent: {}
+[22.347174] (-) TimerEvent: {}
+[22.447704] (-) TimerEvent: {}
+[22.548239] (-) TimerEvent: {}
+[22.648801] (-) TimerEvent: {}
+[22.749366] (-) TimerEvent: {}
+[22.849916] (-) TimerEvent: {}
+[22.950504] (-) TimerEvent: {}
+[23.051078] (-) TimerEvent: {}
+[23.153261] (-) TimerEvent: {}
+[23.253889] (-) TimerEvent: {}
+[23.354452] (-) TimerEvent: {}
+[23.454977] (-) TimerEvent: {}
+[23.555288] (-) TimerEvent: {}
+[23.655607] (-) TimerEvent: {}
+[23.755917] (-) TimerEvent: {}
+[23.856312] (-) TimerEvent: {}
+[23.956723] (-) TimerEvent: {}
+[24.057105] (-) TimerEvent: {}
+[24.157672] (-) TimerEvent: {}
+[24.258238] (-) TimerEvent: {}
+[24.358866] (-) TimerEvent: {}
+[24.459521] (-) TimerEvent: {}
+[24.560083] (-) TimerEvent: {}
+[24.660628] (-) TimerEvent: {}
+[24.761305] (-) TimerEvent: {}
+[24.861869] (-) TimerEvent: {}
+[24.962462] (-) TimerEvent: {}
+[25.062943] (-) TimerEvent: {}
+[25.163492] (-) TimerEvent: {}
+[25.264046] (-) TimerEvent: {}
+[25.364548] (-) TimerEvent: {}
+[25.464917] (-) TimerEvent: {}
+[25.565500] (-) TimerEvent: {}
+[25.666077] (-) TimerEvent: {}
+[25.680995] (my_talklist) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/my_talklist', 'build', '--build-base', '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build', 'install', '--record', '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/src/my_talklist', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'GZ_SIM_RESOURCE_PATH': '/opt/ros/jazzy/share', 'USER': 'phant0mz3ro', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'XDG_SESSION_TYPE': 'x11', 'CLUTTER_DISABLE_MIPMAPPED_TEXT': '1', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/phant0mz3ro', 'OLDPWD': '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/src', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '4357', 'GSM_SKIP_SSH_AGENT_WORKAROUND': 'true', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'DEBUGINFOD_URLS': 'https://debuginfod.ubuntu.com', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'phant0mz3ro', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.Shell@x11.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'phant0mz3ro', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'WINDOWPATH': '2', 'PATH': '/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/RedHead:@/tmp/.ICE-unix/4325,unix/RedHead:/tmp/.ICE-unix/4325', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/d92d7960_0dc0_48c5_9d8d_bf93143cd127', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'GNOME_TERMINAL_SERVICE': ':1.152', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/jazzy', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/home/phant0mz3ro/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'VTE_VERSION': '7600', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor'}, 'shell': False}
+[25.766162] (-) TimerEvent: {}
+[25.866431] (-) TimerEvent: {}
+[25.966623] (-) TimerEvent: {}
+[25.989119] (my_talklist) StdoutLine: {'line': b'running egg_info\n'}
+[25.989374] (my_talklist) StdoutLine: {'line': b'creating ../../build/my_talklist/my_talklist.egg-info\n'}
+[26.010197] (my_talklist) StdoutLine: {'line': b'writing ../../build/my_talklist/my_talklist.egg-info/PKG-INFO\n'}
+[26.010501] (my_talklist) StdoutLine: {'line': b'writing dependency_links to ../../build/my_talklist/my_talklist.egg-info/dependency_links.txt\n'}
+[26.010704] (my_talklist) StdoutLine: {'line': b'writing entry points to ../../build/my_talklist/my_talklist.egg-info/entry_points.txt\n'}
+[26.010979] (my_talklist) StdoutLine: {'line': b'writing requirements to ../../build/my_talklist/my_talklist.egg-info/requires.txt\n'}
+[26.011121] (my_talklist) StdoutLine: {'line': b'writing top-level names to ../../build/my_talklist/my_talklist.egg-info/top_level.txt\n'}
+[26.011265] (my_talklist) StdoutLine: {'line': b"writing manifest file '../../build/my_talklist/my_talklist.egg-info/SOURCES.txt'\n"}
+[26.053758] (my_talklist) StdoutLine: {'line': b"reading manifest file '../../build/my_talklist/my_talklist.egg-info/SOURCES.txt'\n"}
+[26.054382] (my_talklist) StdoutLine: {'line': b"writing manifest file '../../build/my_talklist/my_talklist.egg-info/SOURCES.txt'\n"}
+[26.054584] (my_talklist) StdoutLine: {'line': b'running build\n'}
+[26.054804] (my_talklist) StdoutLine: {'line': b'running build_py\n'}
+[26.054897] (my_talklist) StdoutLine: {'line': b'creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build\n'}
+[26.055087] (my_talklist) StdoutLine: {'line': b'creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib\n'}
+[26.055274] (my_talklist) StdoutLine: {'line': b'creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist\n'}
+[26.055425] (my_talklist) StdoutLine: {'line': b'copying my_talklist/listener.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist\n'}
+[26.055551] (my_talklist) StdoutLine: {'line': b'copying my_talklist/talker.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist\n'}
+[26.055688] (my_talklist) StdoutLine: {'line': b'copying my_talklist/__init__.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist\n'}
+[26.055825] (my_talklist) StdoutLine: {'line': b'running install\n'}
+[26.061711] (my_talklist) StdoutLine: {'line': b'running install_lib\n'}
+[26.066751] (-) TimerEvent: {}
+[26.083319] (my_talklist) StdoutLine: {'line': b'creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist\n'}
+[26.083517] (my_talklist) StdoutLine: {'line': b'copying /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist/listener.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist\n'}
+[26.083714] (my_talklist) StdoutLine: {'line': b'copying /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist/talker.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist\n'}
+[26.083836] (my_talklist) StdoutLine: {'line': b'copying /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/build/lib/my_talklist/__init__.py -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist\n'}
+[26.084188] (my_talklist) StdoutLine: {'line': b'byte-compiling /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist/listener.py to listener.cpython-312.pyc\n'}
+[26.084604] (my_talklist) StdoutLine: {'line': b'byte-compiling /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist/talker.py to talker.cpython-312.pyc\n'}
+[26.085010] (my_talklist) StdoutLine: {'line': b'byte-compiling /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist/__init__.py to __init__.cpython-312.pyc\n'}
+[26.085215] (my_talklist) StdoutLine: {'line': b'running install_data\n'}
+[26.085415] (my_talklist) StdoutLine: {'line': b'creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/share/ament_index\n'}
+[26.085506] (my_talklist) StdoutLine: {'line': b'creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/share/ament_index/resource_index\n'}
+[26.085587] (my_talklist) StdoutLine: {'line': b'creating /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/share/ament_index/resource_index/packages\n'}
+[26.085773] (my_talklist) StdoutLine: {'line': b'copying resource/my_talklist -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/share/ament_index/resource_index/packages\n'}
+[26.085871] (my_talklist) StdoutLine: {'line': b'copying package.xml -> /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/share/my_talklist\n'}
+[26.085945] (my_talklist) StdoutLine: {'line': b'running install_egg_info\n'}
+[26.108191] (my_talklist) StdoutLine: {'line': b'Copying ../../build/my_talklist/my_talklist.egg-info to /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/python3.12/site-packages/my_talklist-0.0.0-py3.12.egg-info\n'}
+[26.109121] (my_talklist) StdoutLine: {'line': b'running install_scripts\n'}
+[26.166836] (-) TimerEvent: {}
+[26.251669] (my_talklist) StdoutLine: {'line': b'Installing listener script to /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/my_talklist\n'}
+[26.251946] (my_talklist) StdoutLine: {'line': b'Installing talker script to /home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/install/my_talklist/lib/my_talklist\n'}
+[26.252126] (my_talklist) StdoutLine: {'line': b"writing list of installed files to '/home/phant0mz3ro/Documents/aurora/practice/ros2/intro-to-urdf/amr_ws/build/my_talklist/install.log'\n"}
+[26.266975] (-) TimerEvent: {}
+[26.284570] (my_talklist) CommandEnded: {'returncode': 0}
+[26.292722] (my_talklist) JobEnded: {'identifier': 'my_talklist', 'rc': 0}
+[26.293283] (-) EventReactorShutdown: {}

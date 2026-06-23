@@ -1,0 +1,4 @@
+[0.000000] (-) TimerEvent: {}
+[0.000336] (-) JobUnselected: {'identifier': 'amr_description'}
+[0.000385] (-) JobUnselected: {'identifier': 'my_talklist'}
+[0.000405] (-) EventReactorShutdown: {}
